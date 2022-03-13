@@ -25,6 +25,7 @@ Users should be able to:
 
 - HTML5
 - SCSS
+- BEM
 - JS
 - Flexbox
 - Grid
